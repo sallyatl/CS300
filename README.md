@@ -1,1 +1,3 @@
 # CS300
+
+The problem I was solving in the projects for the course was to use algorithms to sort information. I approached the problem using Zybooks. Data structures are important to understand because there are different types of different data structures that function differently. I overcame roadblocks using the drop in tutoring from SNHU and Zybooks. My work on this project has expanded my approach to designing software and developing programs by showing me the different data structures. My work on this project has evolved due to practice for the way I write programs that are maintainable, readable, and adaptable. 
